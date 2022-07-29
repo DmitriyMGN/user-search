@@ -1,0 +1,9 @@
+.header__search-input {
+  width: 1280px;
+  height: 32px;
+  border: 1px solid grey;
+  border-radius: 15px;
+  background-image: url('../../../images/search.svg');
+  background-repeat: no-repeat; 
+  background-position: 99%;
+}

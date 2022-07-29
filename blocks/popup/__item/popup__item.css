@@ -1,0 +1,7 @@
+.popup__item {
+  margin: 0;
+  padding: 10px 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

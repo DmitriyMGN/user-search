@@ -1,0 +1,11 @@
+.users__list {
+  width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 420px);
+  grid-template-rows: repeat(auto-fill, 350px);
+  gap: 10px;
+  justify-content: center;
+}

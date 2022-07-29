@@ -1,0 +1,5 @@
+.popup__users-info {
+  display: grid;
+  grid-template-columns: repeat(2, 250px);
+  grid-template-rows: repeat(2, 100px);
+}

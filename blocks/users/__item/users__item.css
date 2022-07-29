@@ -1,0 +1,14 @@
+.users__item {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 350px;
+  height: 100%;
+  border: 1px solid grey;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px grey;
+}
+
+.users__item:hover {
+  cursor: pointer;
+}
